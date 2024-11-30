@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmanJaiswal2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @AmanJaiswal I am a frontEnd devloper
+- 👀 I’m interested in coding and problem-solving
+- 🌱 I’m currently learning java fullStack
 - 
 
 <!---
